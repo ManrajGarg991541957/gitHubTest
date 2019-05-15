@@ -4,6 +4,7 @@
  * and open the template in the editor.
  
  * Line added for commit # 3
+ * Line added for commit # 4
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
